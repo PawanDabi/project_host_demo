@@ -29,6 +29,14 @@ st.markdown("""
         <span style='color: red;'>Prediction. </span>
     </h1>
     """, unsafe_allow_html=True)
+st.markdown("""
+    <h1 style='text-align: center; font-size: 50px;'>
+        <span style='color: green;'>Industrial Air Quality</span>
+        <span style='color: red;'>Analysis </span>
+        <span style='color: green;'>& </span>
+        <span style='color: red;'>Prediction. </span>
+    </h1>
+    """, unsafe_allow_html=True)
 st.markdown("---")
 st.markdown("""
     <h1 style='text-align: center; font-size: 40px;'>
